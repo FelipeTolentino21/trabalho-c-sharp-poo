@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuário\\Desktop\\Trabalho - C# - POO\\Trabalho - C# - POO\\Trabalho - C# - POO.csproj",
+      "projectUniqueName": "C:\\Users\\Usuário\\Desktop\\Trabalho - C# - POO\\trabalho-c-sharp-poo\\Trabalho - C# - POO\\Trabalho - C# - POO\\Trabalho - C# - POO.csproj",
       "projectName": "Trabalho - C# - POO",
-      "projectPath": "C:\\Users\\Usuário\\Desktop\\Trabalho - C# - POO\\Trabalho - C# - POO\\Trabalho - C# - POO.csproj",
+      "projectPath": "C:\\Users\\Usuário\\Desktop\\Trabalho - C# - POO\\trabalho-c-sharp-poo\\Trabalho - C# - POO\\Trabalho - C# - POO\\Trabalho - C# - POO.csproj",
       "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuário\\Desktop\\Trabalho - C# - POO\\Trabalho - C# - POO\\obj\\",
+      "outputPath": "C:\\Users\\Usuário\\Desktop\\Trabalho - C# - POO\\trabalho-c-sharp-poo\\Trabalho - C# - POO\\Trabalho - C# - POO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config"
