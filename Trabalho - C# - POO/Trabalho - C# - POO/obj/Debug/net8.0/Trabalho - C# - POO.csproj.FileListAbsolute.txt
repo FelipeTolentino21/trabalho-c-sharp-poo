@@ -1,0 +1,28 @@
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\bin\Debug\net8.0\Trabalho - C# - POO.exe
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\bin\Debug\net8.0\Trabalho - C# - POO.deps.json
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\bin\Debug\net8.0\Trabalho - C# - POO.runtimeconfig.json
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\bin\Debug\net8.0\Trabalho - C# - POO.dll
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\bin\Debug\net8.0\Trabalho - C# - POO.pdb
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.dll
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\refint\Trabalho - C# - POO.dll
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.pdb
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\Programação\Projetos e trabalhos\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\ref\Trabalho - C# - POO.dll
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\bin\Debug\net8.0\Trabalho - C# - POO.exe
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\bin\Debug\net8.0\Trabalho - C# - POO.deps.json
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\bin\Debug\net8.0\Trabalho - C# - POO.runtimeconfig.json
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\bin\Debug\net8.0\Trabalho - C# - POO.dll
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\bin\Debug\net8.0\Trabalho - C# - POO.pdb
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.dll
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\refint\Trabalho - C# - POO.dll
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.pdb
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\Trabalho - C# - POO.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\Trabalho - C# - POO\Trabalho - C# - POO\obj\Debug\net8.0\ref\Trabalho - C# - POO.dll
